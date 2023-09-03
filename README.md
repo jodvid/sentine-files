@@ -103,9 +103,10 @@
 
 **Project/Task Details:**
 - **Project Name:** SWAK BPO KITCHEN
-- 
+  
 **STATUS:**
 - DOING
+  
 **Key Accomplishments:**
 - ATTENDED MEETING WITH KITCHEN CONTRACTOR FOR FINAL LAYOUT
 
