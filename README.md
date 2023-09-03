@@ -75,29 +75,35 @@
 
 **Project/Task Details:**
 - **Project Name:** OFFICE CLARK 10
+  
 **Completion:**
 - 0%
+  
 **Key Accomplishments:**
 - Negotiated Price 
 
 
 **Project/Task Details:**
 - **Project Name:** ALVIERA AVIDA
+  
 **STATUS:**
 - PENDING
 
 **Project/Task Details:**
 - **Project Name:** SWAK BPO 5TH FLOOR
+  
 **STATUS:**
 - PENDING
 
 **Project/Task Details:**
 - **Project Name:** WEST GO CHIEFT DUCTED TYPE ACU
+  
 **STATUS:**
 - PENDING
 
 **Project/Task Details:**
-- **Project Name:** SWAK BPO KITCHEN	
+- **Project Name:** SWAK BPO KITCHEN
+- 
 **STATUS:**
 - DOING
 **Key Accomplishments:**
