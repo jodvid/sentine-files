@@ -18,6 +18,8 @@
 **Challenges Encountered:**
 - [Highlight any obstacles, difficulties, or setbacks faced during the week.]
 
+- ![](assets/viber_image_2023-09-01_16-23-02-147.jpg)
+
 **Next Week's Goals:**
 - [Outline the objectives and targets for the upcoming week.]
 
